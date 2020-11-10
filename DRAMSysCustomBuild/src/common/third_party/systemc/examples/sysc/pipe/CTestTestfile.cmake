@@ -1,0 +1,8 @@
+# CMake generated Testfile for 
+# Source directory: /Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/examples/sysc/pipe
+# Build directory: /Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/build/src/common/third_party/systemc/examples/sysc/pipe
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(src/common/third_party/systemc/examples/sysc/pipe/pipe "/usr/local/bin/cmake" "-DTEST_EXE=/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/build/src/common/third_party/systemc/examples/sysc/pipe/pipe" "-DTEST_DIR=/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/build/src/common/third_party/systemc/examples/sysc/pipe" "-DTEST_INPUT=" "-DTEST_GOLDEN=" "-DTEST_FILTER=" "-DDIFF_COMMAND=/usr/bin/diff" "-DDIFF_OPTIONS=-u" "-P" "/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/cmake/run_test.cmake")
+set_tests_properties(src/common/third_party/systemc/examples/sysc/pipe/pipe PROPERTIES  FAIL_REGULAR_EXPRESSION "^[*][*][*]ERROR" _BACKTRACE_TRIPLES "/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/examples/CMakeLists.txt;137;add_test;/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/examples/sysc/pipe/CMakeLists.txt;54;configure_and_add_test;/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/examples/sysc/pipe/CMakeLists.txt;0;")

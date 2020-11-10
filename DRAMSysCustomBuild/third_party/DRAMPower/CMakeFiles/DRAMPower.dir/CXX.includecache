@@ -1,0 +1,208 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/CAHelpers.cc
+cstdio
+-
+algorithm
+-
+string
+-
+CommandAnalysis.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/CommandAnalysis.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/CmdHandlers.cc
+CommandAnalysis.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/CommandAnalysis.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/CommandAnalysis.cc
+fstream
+-
+algorithm
+-
+sstream
+-
+CommandAnalysis.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/CommandAnalysis.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/CommandAnalysis.h
+stdint.h
+-
+vector
+-
+iostream
+-
+deque
+-
+string
+-
+MemCommand.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemCommand.h
+MemorySpecification.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemorySpecification.h
+Utils.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Utils.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemArchitectureSpec.cc
+MemArchitectureSpec.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemArchitectureSpec.h
+cassert
+-
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemArchitectureSpec.h
+stdint.h
+-
+Parametrisable.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Parametrisable.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemBankWiseParams.cc
+MemBankWiseParams.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemBankWiseParams.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemBankWiseParams.h
+stdint.h
+-
+vector
+-
+algorithm
+-
+numeric
+-
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemCommand.cc
+MemCommand.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemCommand.h
+algorithm
+-
+MemorySpecification.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemorySpecification.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemCommand.h
+stdint.h
+-
+cassert
+-
+string
+-
+MemorySpecification.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemorySpecification.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemPowerSpec.cc
+MemPowerSpec.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemPowerSpec.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemPowerSpec.h
+Parametrisable.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Parametrisable.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemTimingSpec.cc
+MemTimingSpec.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemTimingSpec.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemTimingSpec.h
+stdint.h
+-
+Parametrisable.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Parametrisable.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemoryPowerModel.cc
+MemoryPowerModel.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemoryPowerModel.h
+stdint.h
+-
+cmath
+-
+iostream
+-
+algorithm
+-
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemoryPowerModel.h
+numeric
+-
+MemorySpecification.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemorySpecification.h
+MemBankWiseParams.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemBankWiseParams.h
+CommandAnalysis.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/CommandAnalysis.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemorySpecification.cc
+MemorySpecification.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemorySpecification.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemorySpecification.h
+cassert
+-
+string
+-
+MemArchitectureSpec.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemArchitectureSpec.h
+MemTimingSpec.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemTimingSpec.h
+MemPowerSpec.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/MemPowerSpec.h
+Parametrisable.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Parametrisable.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Parameter.cc
+Parameter.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Parameter.h
+iomanip
+-
+Utils.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Utils.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Parameter.h
+string
+-
+ostream
+-
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Parametrisable.cc
+Parametrisable.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Parametrisable.h
+iostream
+-
+cstdlib
+-
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Parametrisable.h
+string
+-
+vector
+-
+Parameter.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Parameter.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/Utils.h
+string
+-
+sstream
+-
+stdexcept
+-
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/libdrampower/LibDRAMPower.cc
+LibDRAMPower.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/libdrampower/LibDRAMPower.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/libdrampower/LibDRAMPower.h
+stdint.h
+-
+vector
+-
+CommandAnalysis.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/libdrampower/CommandAnalysis.h
+MemoryPowerModel.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/libdrampower/MemoryPowerModel.h
+MemCommand.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/libdrampower/MemCommand.h
+MemBankWiseParams.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/DRAMPower/src/libdrampower/MemBankWiseParams.h
+

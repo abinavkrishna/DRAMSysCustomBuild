@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/copyright.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/md/aarch64.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/md/hppa.h
+qt.h
+-
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/md/i386.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/md/iX86_64.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/md/powerpc_mach.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/md/powerpc_sys5.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/md/sparc.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/qt.c
+copyright.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/copyright.h
+qt.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/qt.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/qt.h
+sysc/packages/qt/qtmd.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/sysc/packages/qt/qtmd.h
+
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/qtmd.h
+sysc/packages/qt/md/sparc.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/sysc/packages/qt/md/sparc.h
+sysc/packages/qt/md/hppa.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/sysc/packages/qt/md/hppa.h
+sysc/packages/qt/md/iX86_64.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/sysc/packages/qt/md/iX86_64.h
+sysc/packages/qt/md/i386.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/sysc/packages/qt/md/i386.h
+sysc/packages/qt/md/powerpc_mach.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/sysc/packages/qt/md/powerpc_mach.h
+sysc/packages/qt/md/powerpc_sys5.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/sysc/packages/qt/md/powerpc_sys5.h
+sysc/packages/qt/md/aarch64.h
+/Users/abinavkrishna/Desktop/Grad stuff/Q4/DRAM research/DRAMSys/DRAMSys/DRAMSys/library/src/common/third_party/systemc/src/sysc/packages/qt/sysc/packages/qt/md/aarch64.h
+
